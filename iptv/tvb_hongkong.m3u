@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBPlus.hk" group-title="香港电视",TVB Plus 82
+https://10.fast.hidns.vip/163189/tvbp/
+#EXTINF:-1 tvg-id="Jade.hk" group-title="香港电视",翡翠台 81
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
